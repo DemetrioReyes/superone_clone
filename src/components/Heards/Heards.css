@@ -1,0 +1,79 @@
+.heards-header {
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 20px 8px 0px; /* Aumenta el segundo valor (derecha) */
+  background: #fff;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.03);
+  z-index: 1000;
+  height: 80px;
+}
+
+.heards-logo {
+  height: 48px;
+}
+
+.heards-menu-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 48px;
+  width: 48px;
+}
+
+.heards-menu-btn svg {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+/* New dropdown menu styles */
+.heards-menu-dropdown {
+  position: absolute;
+  top: 70px;
+  right: 40px;
+  background: #fff;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  min-width: 140px;
+  z-index: 2000;
+}
+
+.heards-menu-dropdown a {
+  padding: 12px 20px;
+  color: #222;
+  text-decoration: none;
+  font-weight: 500;
+  transition: background 0.2s;
+}
+
+.heards-menu-dropdown a:hover {
+  background: #f0f0f0;
+}
+
+/* Responsive styles */
+@media (max-width: 600px) {
+  .heards-header {
+    padding: 8px 20px 4px 12px; /* Aumenta el segundo valor (derecha) */
+    height: 56px;
+  }
+
+  .heards-logo {
+    height: 32px;
+  }
+
+  .heards-menu-btn {
+    height: 32px;
+    width: 32px;
+  }
+}

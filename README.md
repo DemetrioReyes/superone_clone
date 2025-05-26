@@ -14,13 +14,13 @@ Estructura de proyecto organizada
 
 
 ## 🛠 Tecnologías Utilizadas
-
+  ```bash
 Frontend: React.js + Vite
 Estilos: CSS Modules
 Enrutamiento: React Router
 Gestión de Estado: Context API
 Build Tool: npm
-
+```
 ## Notas
 
 - Este repositorio no está afiliado oficialmente a SuperOne.

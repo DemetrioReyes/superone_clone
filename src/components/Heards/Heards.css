@@ -1,14 +1,17 @@
 .heards-header {
   width: 100%;
+  max-width: 1200px;
   position: fixed;
   top: 0;
   left: 0;
+  right: 0;
+  margin: 0 auto;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 8px 20px 8px 0px; /* Aumenta el segundo valor (derecha) */
+  padding: 8px 20px; 
   background: #fff;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.03);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.03);
   z-index: 1000;
   height: 80px;
 }
@@ -64,7 +67,9 @@
 /* Responsive styles */
 @media (max-width: 600px) {
   .heards-header {
-    padding: 8px 20px 4px 12px; /* Aumenta el segundo valor (derecha) */
+    width: 100%;
+    max-width: none; 
+    padding: 8px 20px 4px 12px;
     height: 56px;
   }
 

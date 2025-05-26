@@ -31,10 +31,10 @@ Fue desarrollado como una **prueba técnica** con el objetivo de optar por una p
 A continuación se muestran capturas de pantalla del proyecto para ilustrar su funcionamiento visual.  
 Asegúrate de que las imágenes estén ubicadas en la carpeta `screenshots` dentro del repositorio para que se visualicen correctamente en GitHub.
 
-| ![Captura 1](screenshots/1.png) | ![Captura 2](screenshots/2.png) |
+| ![Captura 1](screenshot/1.png) | ![Captura 2](screenshot/2.png) |
 |:-------------------------------:|:-------------------------------:|
 | Captura de ejemplo 1            | Captura de ejemplo 2            |
 
-| ![Captura 3](screenshots/3.png) | ![Captura 4](screenshots/4.png) |
+| ![Captura 3](screenshot/3.png) | ![Captura 4](screenshot/4.png) |
 |:-------------------------------:|:-------------------------------:|
 | Captura de ejemplo 3            | Captura de ejemplo 4            |

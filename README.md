@@ -13,7 +13,7 @@ Fue desarrollado como una **prueba técnica** con el objetivo de optar por una p
 
 1. Clona el repositorio:
   ```bash
-  git clone https://github.com/tu-usuario/superone-clone.git
+  git clone git@github.com:DemetrioReyes/superone_clone.git
   cd superone-clone
   ```
 2. Instala las dependencias:
@@ -24,11 +24,16 @@ Fue desarrollado como una **prueba técnica** con el objetivo de optar por una p
   ```bash
   npm start
   ```
-4. Abre tu navegador en [http://localhost:3000](http://localhost:3000).
+4. Abre tu navegador en [http://localhost:5173](http://localhost:5173).
 
 ## Capturas de pantalla
 
 _Agrega aquí capturas de pantalla del proyecto para mostrar su funcionamiento visual._
 
-![Captura de ejemplo](ruta/a/tu/captura.png)
+![Captura de ejemplo](screenshots/1.png)
+![Captura de ejemplo](screenshots/2.png)
+![Captura de ejemplo](screenshots/3.png)
+![Captura de ejemplo](screenshots/4.png)
+
+
 

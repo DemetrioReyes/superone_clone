@@ -65,7 +65,7 @@
 
 .scroll-arrow {
   width: 12px;
-  height: 12px;
+  height: px;
   border-right: 3px solid var(--primary-color);
   border-bottom: 3px solid var(--primary-color);
   transform: rotate(45deg);

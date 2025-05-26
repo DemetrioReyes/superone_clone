@@ -45,7 +45,7 @@ Build Tool: npm
 
 
 
-
+  ```bash
 ## 📂 Estructura del Proyecto
 
 superone-clone/
@@ -60,12 +60,15 @@ superone-clone/
 ├── .gitignore
 ├── package.json
 └── README.md
+```
 
 
 ## ✉️ Contacto
 
 Si tienes preguntas sobre este proyecto, puedes contactarme a través de:
 
-Email: [rdemetrio72@yahoo.com]
-LinkedIn: [www.linkedin.com/in/demetrio-reyes-martinez-499765341]
-Portfolio: [https://demetrioreyes.vercel.app]
+<ul>
+  <li>Email: <a href="mailto:rdemetrio72@yahoo.com">rdemetrio72@yahoo.com</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/demetrio-reyes-martinez-499765341" target="_blank">demetrio-reyes-martinez-499765341</a></li>
+  <li>Portfolio: <a href="https://demetrioreyes.vercel.app" target="_blank">demetrioreyes.vercel.app</a></li>
+</ul>
